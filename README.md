@@ -1,3 +1,5 @@
+Choosing to drop this week
+
 # Week_19_Neural_Network
 
 ### Assignment Background
